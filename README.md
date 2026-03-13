@@ -123,28 +123,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=collaborative-whiteboard&theme=tokyonight"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=distributed-message-queue&theme=tokyonight"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=banking-management-system&theme=tokyonight"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=speech-emotion-recognition&theme=tokyonight"/>
-</a>
-
-</p>
-
 # 💼 Experience
 
 ### 🏢 Software Engineer — Versa Networks
@@ -169,6 +147,28 @@
 ---
 
 ---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Shareable-Whiteboard&theme=tokyonight"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Distributed-Log-Storage&theme=tokyonight"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Banking_Management_System&theme=tokyonight"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=ser-project&theme=tokyonight"/>
+</a>
+
+</p>
 
 ### 🧑‍🎨 Real-Time Collaborative Whiteboard
 
