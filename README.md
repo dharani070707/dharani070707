@@ -46,14 +46,26 @@
 
 ---
 
+### Frontend
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+
+
+---
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge\&logo=ansible)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
 ![CI/CD](https://img.shields.io/badge/CI-CD-purple?style=for-the-badge)
 
----
 
 # 📊 GitHub Stats
 
