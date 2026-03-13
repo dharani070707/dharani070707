@@ -151,6 +151,9 @@
 # 🚀 Featured Projects
 
 <p align="center">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Micro_services_migration_tool&theme=tokyonight"/>
+</a>
 
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Shareable-Whiteboard&theme=tokyonight"/>
@@ -170,7 +173,20 @@
 
 </p>
 
+🔄 **Monolith → Microservices Migration Tool**
+
+⚡ **Spring Boot • REST APIs • Microservices Architecture**
+
+Designed a tool to automate migration of monolithic applications into microservices.
+
+Implemented service decomposition and API-based communication between services.
+
+Built modular Spring Boot services enabling independent deployment and scalability.
+
+Demonstrates microservice orchestration, service boundaries, and distributed architecture design.
+
 ### 🧑‍🎨 Real-Time Collaborative Whiteboard
+
 
 ⚡ **Spring Boot • WebSockets • REST APIs**
 
