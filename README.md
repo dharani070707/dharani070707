@@ -13,11 +13,6 @@
 </p>
 
 ---
-<p align="center">
-<a href="https://linkedin.com/in/dharaniprasads">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-</a>
-</p>
 
 # 🚀 About Me
 
@@ -148,8 +143,6 @@
 * Implemented **multi-threaded execution** for live traffic validation and monitoring.
 * Improved **CI pipeline efficiency by ~15%** through optimized test orchestration.
 * Expanded automation coverage across **UI workflows, APIs, and traffic validation scenarios**.
-
----
 
 ---
 
