@@ -259,25 +259,29 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <a href="https://linkedin.com/in/dharaniprasads">
-<img height="45" src="https://img.shields.io/badge/LinkedIn-Dharani%20Prasad%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Dharani%20Prasad%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</td>
 
-    
-
+<td align="center">
 <a href="mailto:dharani.prasad@iiitb.ac.in">
-<img height="45" src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</td>
 
-    
-
+<td align="center">
 <a href="https://github.com/dharani070707">
-<img height="45" src="https://img.shields.io/badge/GitHub-dharani070707-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-dharani070707-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</td>
 
-</p>
+</tr>
+</table>
 
 
 ---
