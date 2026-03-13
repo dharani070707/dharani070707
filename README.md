@@ -150,28 +150,54 @@
 
 # 🚀 Featured Projects
 
-<p align="center">
-<a href="#">
+<table align="center">
+<tr>
+<td width="50%">
+
+<a href="https://github.com/dharani070707/Micro_services_migration_tool">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Micro_services_migration_tool&theme=tokyonight"/>
 </a>
 
-<a href="#">
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/dharani070707/Shareable-Whiteboard">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Shareable-Whiteboard&theme=tokyonight"/>
 </a>
 
-<a href="#">
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<a href="https://github.com/dharani070707/Distributed-Log-Storage">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Distributed-Log-Storage&theme=tokyonight"/>
 </a>
 
-<a href="#">
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/dharani070707/Banking_Management_System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=Banking_Management_System&theme=tokyonight"/>
 </a>
 
-<a href="#">
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://github.com/dharani070707/ser-project">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=ser-project&theme=tokyonight"/>
 </a>
 
-</p>
+</td>
+</tr>
+</table>
+
 
 🔄 **Monolith → Microservices Migration Tool**
 
