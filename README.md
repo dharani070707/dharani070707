@@ -35,8 +35,40 @@
 
 # 🛠 Tech Stack
 
+### 💻 Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,react,spring,linux,docker,jenkins,ansible,postgres,mysql,git"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+</p>
+
+---
+
+### ⚙️ Backend & Systems
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,linux"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/WebSockets-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Socket-Programming-grey?style=for-the-badge">
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,docker,jenkins,ansible,postgres,mysql"/>
 </p>
 
 ---
@@ -93,9 +125,54 @@
 
 # 🚀 Featured Projects
 
+<p align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=collaborative-whiteboard&theme=tokyonight"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=distributed-message-queue&theme=tokyonight"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=banking-management-system&theme=tokyonight"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharani070707&repo=speech-emotion-recognition&theme=tokyonight"/>
+</a>
+
+</p>
+
+# 💼 Experience
+
+### 🏢 Software Engineer — Versa Networks
+
+📍 Bangalore, India
+🗓 **Feb 2023 – Jun 2025**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/Selenium-green?style=flat"/>
+<img src="https://img.shields.io/badge/REST-API-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux"/>
+<img src="https://img.shields.io/badge/Automation-grey?style=flat"/>
+</p>
+
+* Developed **automation frameworks** for validating CLI, UI, and REST APIs of network security products.
+* Automated **end-to-end regression and functional testing**, reducing manual testing effort.
+* Implemented **multi-threaded execution** for live traffic validation and monitoring.
+* Improved **CI pipeline efficiency by ~15%** through optimized test orchestration.
+* Expanded automation coverage across **UI workflows, APIs, and traffic validation scenarios**.
+
+---
+
+---
+
 ### 🧑‍🎨 Real-Time Collaborative Whiteboard
 
-Spring Boot • WebSockets • REST APIs
+⚡ **Spring Boot • WebSockets • REST APIs**
 
 * Built **multi-user collaborative drawing system**
 * Real-time updates using **WebSocket event broadcasting**
@@ -105,7 +182,7 @@ Spring Boot • WebSockets • REST APIs
 
 ### 📩 Distributed Log-Based Message Queue
 
-C • Socket Programming • File Systems
+⚡ **C • Socket Programming • File Systems**
 
 * Implemented **persistent log-based messaging system**
 * Concurrent **producer-consumer architecture**
@@ -115,7 +192,7 @@ C • Socket Programming • File Systems
 
 ### 🏦 Banking Management System
 
-C • SQLite • Socket Programming
+⚡ **C • SQLite • Socket Programming**
 
 * Multi-user **client-server banking system**
 * Implemented custom locking for **ACID compliance**
@@ -124,23 +201,15 @@ C • SQLite • Socket Programming
 
 ### 🎤 Speech Emotion Recognition
 
-Flask • Machine Learning
+⚡ **Flask • Machine Learning**
 
 * Built ML classifier using **MFCC features**
 * Achieved **85% accuracy on RAVDESS dataset**
 
 ---
 
-# 💼 Experience
 
-### Software Engineer — Versa Networks
 
-* Automated **CLI, UI, and REST API testing**
-* Developed automation frameworks in **Python**
-* Implemented **multi-threaded test execution**
-* Improved CI pipeline efficiency by **15%**
-
----
 
 # 📚 Publications
 
