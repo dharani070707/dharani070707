@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharani Prasad S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Backend+Engineer;Distributed+Systems+Enthusiast;Automation+Engineer+%7C+IIIT+Bangalore;Building+Scalable+Systems&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+/+Software+Engineer;Distributed+Systems+Enthusiast;Automation+Engineer+%7C+IIIT+Bangalore;Building+Scalable+Systems&center=true&width=600&height=50">
 </p>
 
 ---
