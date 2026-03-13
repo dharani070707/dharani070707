@@ -1,22 +1,30 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Dharani%20Prasad%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Dharani Prasad S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+/+Software+Engineer;Distributed+Systems+Enthusiast;Automation+Engineer+%7C+IIIT+Bangalore;Building+Scalable+Systems&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;Distributed+Systems+Enthusiast;Automation+Engineer+%7C+IIIT+Bangalore;Building+Scalable+Systems&center=true&width=600&height=45">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dharani070707&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 **M.Tech Computer Science — IIIT Bangalore**
 
 💻 Former **Software Engineer at Versa Networks**
 
-⚙️ Passionate about **Full Stack Development,  Systems, Backend Engineering, and System Design**
+⚙️ Passionate about **Full Stack Development, Distributed Systems, Backend Engineering, and System Design**
 
 🧠 Experienced in **Automation, Networking Systems, and Backend APIs**
 
-🌱 Currently learning:
+🌱 Currently learning
 
 * Microservices Architecture
 * Advanced System Design
@@ -25,47 +33,13 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,react,spring,linux,docker,jenkins,ansible,postgres,mysql,git"/>
+</p>
 
 ---
-
-### Backend & Systems
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge\&logo=springboot)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-orange?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Socket Programming](https://img.shields.io/badge/Socket-Programming-grey?style=for-the-badge)
-
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-
-
----
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge\&logo=ansible)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![CI/CD](https://img.shields.io/badge/CI-CD-purple?style=for-the-badge)
-
 
 # 📊 GitHub Stats
 
@@ -82,35 +56,40 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=dharani070707&theme=tokyonight" />
-
+<img src="https://streak-stats.demolab.com/?user=dharani070707&theme=tokyonight"/>
 </p>
 
 ---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharani070707&theme=tokyo-night"/>
+</p>
+
+---
+
 # 🧠 LeetCode
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/dharaniprasads07?theme=dark&font=baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/dharaniprasads07?theme=dark&font=baloo&ext=contest"/>
 
 </p>
 
 <p align="center">
 
 <a href="https://leetcode.com/u/dharaniprasads07/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
 
+<p align="center">
+<img src="https://leetcode-stats.vercel.app/api?username=dharaniprasads07&theme=dark"/>
+</p>
+
 ---
-
-I regularly practice **Data Structures and Algorithms** to strengthen problem-solving skills for **backend and system design roles**.
-
-🔗 Profile:
-https://leetcode.com/u/dharaniprasads07/
-<img src="https://leetcode-stats.vercel.app/api?username=dharaniprasads07&theme=dark">
 
 # 🚀 Featured Projects
 
@@ -128,7 +107,7 @@ Spring Boot • WebSockets • REST APIs
 
 C • Socket Programming • File Systems
 
-* Implemented **persistent log-based messaging**
+* Implemented **persistent log-based messaging system**
 * Concurrent **producer-consumer architecture**
 * Offset tracking and **crash-safe log replay**
 
@@ -154,7 +133,7 @@ Flask • Machine Learning
 
 # 💼 Experience
 
-**Software QA Automation Engineer — Versa Networks**
+### Software Engineer — Versa Networks
 
 * Automated **CLI, UI, and REST API testing**
 * Developed automation frameworks in **Python**
@@ -173,17 +152,28 @@ Flask • Machine Learning
 
 # 🌐 Connect With Me
 
-💼 LinkedIn
-https://linkedin.com/in/dharaniprasads
+<p align="center">
 
-📧 Email
-[dharani.prasad@iiitb.ac.in](mailto:dharani.prasad@iiitb.ac.in)
+<a href="https://linkedin.com/in/dharaniprasads">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🐙 GitHub
-https://github.com/dharani070707
+<a href="mailto:dharani.prasad@iiitb.ac.in">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/dharani070707">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my projects, consider giving them a star!
+⭐ If you like my projects, consider giving them a star!
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
