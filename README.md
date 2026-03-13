@@ -13,6 +13,11 @@
 </p>
 
 ---
+<p align="center">
+<a href="https://linkedin.com/in/dharaniprasads">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+</a>
+</p>
 
 # 🚀 About Me
 
@@ -264,18 +269,23 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/dharaniprasads">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img height="45" src="https://img.shields.io/badge/LinkedIn-Dharani%20Prasad%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+    
 
 <a href="mailto:dharani.prasad@iiitb.ac.in">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img height="45" src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+    
+
 <a href="https://github.com/dharani070707">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img height="45" src="https://img.shields.io/badge/GitHub-dharani070707-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
 
 ---
 
