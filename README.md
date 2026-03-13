@@ -203,13 +203,11 @@
 
 ⚡ **Spring Boot • REST APIs • Microservices Architecture**
 
-Designed a tool to automate migration of monolithic applications into microservices.
-
-Implemented service decomposition and API-based communication between services.
-
-Built modular Spring Boot services enabling independent deployment and scalability.
-
-Demonstrates microservice orchestration, service boundaries, and distributed architecture design.
+* Designed a tool to automate migration of monolithic applications into microservices.
+* Implemented service decomposition and API-based communication between services.
+* Built modular Spring Boot services enabling independent deployment and scalability.
+* Demonstrates microservice orchestration, service boundaries, and distributed architecture design.
+---
 
 ### 🧑‍🎨 Real-Time Collaborative Whiteboard
 
@@ -286,5 +284,5 @@ Demonstrates microservice orchestration, service boundaries, and distributed arc
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer"/>
 </p>
