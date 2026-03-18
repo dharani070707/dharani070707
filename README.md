@@ -118,7 +118,7 @@
 </p>
 
 <p align="center">
-<img src="https://leetcode-stats.vercel.app/api?username=dharaniprasads07&theme=dark"/>
+<img src="https://leetcard.jacoblin.cool/dharaniprasads07?theme=dark&ext=heatmap"/>
 </p>
 
 ---
